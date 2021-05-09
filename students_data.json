@@ -1,0 +1,46 @@
+{
+    "students": [
+      {
+        "name": "Abdul Halim",
+        "middlename": null,
+        "cgpa": 3.75,
+        "isRegistered": true,
+        "language": [
+          "Bangla",
+          "English",
+          "Hindi"
+        ],
+        "friends": [
+          {
+            "name": "Abdul Halim",
+            "age": 23
+          },
+          {
+            "name": "HS Shanto",
+            "age": 24
+          }
+        ]
+      },
+      {
+        "name": "HS Shanto",
+        "middlename": null,
+        "cgpa": 3.99,
+        "isRegistered": false,
+        "language": [
+          "Bangla",
+          "English",
+          "Arabic"
+        ],
+        "friends": [
+          {
+            "name": "Md. Abdul Halim",
+            "age": 23
+          },
+          {
+            "name": "HS Shanto Hossain",
+            "age": 24
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "friends": [
+        {
+            "name" : "Abdul Halim",
+            "age" : 23
+        },
+        {
+            "name" : "HS Shanto",
+            "age" : 24
+        }
+    ],
+    "students": [
+        {
+            "name" : "Ab Halim",
+            "age" : 23
+        },
+        {
+            "name" : "HS Shanto",
+            "age" : 24
+        }
+    ]
+}
+
